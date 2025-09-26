@@ -2,3 +2,5 @@
 Aprendizaje del SENA
 
 De momento solo estamos viendo python
+Las actividades de primer trimestre es:
+
